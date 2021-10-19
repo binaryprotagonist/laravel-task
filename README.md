@@ -10,3 +10,18 @@ SetUp Project:-
  <p> <b>Step 8.</b>  php artisan db:seed<p>
  <p><b>Step 9.</b>  php artisan serve<p>
   <p><b>Step 10.</b>  php artisan queue:work<p>
+      
+<p><b>Api's</b></p>
+    <p><b>BaseUrl<b> http://127.0.0.1:8000/api</p>
+    <p><b>Postman Collection</b> https://www.getpostman.com/collections/89d4b4aafacc93793877</p>
+    <p><b>1. Subscribe</b><p>
+    <p><b>End Point /subscribe</b></p>
+    <p><b>Method    Post</b></p>
+    <p><b>Params</b>    website_id  required (1 To 10)</p>
+    <p><b>email</b>       required (Your email address)</p>
+    <p><b>2. Create Post</b></p>
+    <p><b>End Point /post/create</b></p>
+        <p><b>Method    Post</b></p>
+        <p><b>Params</b>    website_id   required (1 To 10)</p>
+        <p>title        required</p>
+        <p>description  required (edited)</p> 

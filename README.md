@@ -1,11 +1,11 @@
 SetUp Project:-
 
-  Step 1.  Clone Repository
-  Step 2.  Create database named as laravel_task
-  Step 3.  Update database credentials in .env file
-  Step 4.  Update email credentials in .env file
-  Step 5.  Composer update
-  Step 6.  php artisan migrate
-  Step 7.  php artisan db:seed
-  Step 8.  php artisan serve
-  Step 9.  php artisan queue:work
+  <p><b>Step 1.</b>  Clone Repository git clone https://github.com/binaryprotagonist/laravel-task.git <p>
+  <p> <b>Step 2.</b>  Create database named as laravel_task<p>
+  <p> <b>Step 3.</b>  Update database credentials in .env file<p>
+  <p> <b>Step 4.</b>  Update email credentials in .env file<p>
+ <p> <b>Step 5.</b>  Composer update<p>
+ <p> <b>Step 6.</b>  php artisan migrate<p>
+ <p> <b>Step 7.</b>  php artisan db:seed<p>
+ <p><b>Step 8.</b>  php artisan serve<p>
+     <p><b>Step 9.</b>  php artisan queue:work<p>
